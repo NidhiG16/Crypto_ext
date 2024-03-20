@@ -12,6 +12,7 @@ function fetchCryptocurrencyData() {
         })
         .catch(error => {
             console.error('Error fetching cryptocurrency data:', error);
+            alert("Error fetching cryptocurrency data");
         });
 }
 
