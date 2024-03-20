@@ -5,16 +5,16 @@
   "description": "Track the top 10 gainers and losers in the cryptocurrency market.",
   "permissions": ["activeTab"],
   "icons": {
-    "16": "icon.jpg",
-    "48": "icon.jpg",
-    "128": "icon.jpg"
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
   },
   "action": {
     "default_popup": "main.html",
     "default_icon": {
-      "16": "icon.jpg",
-      "48": "icon.jpg",
-      "128": "icon.jpg"
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
     }
   }
 }
